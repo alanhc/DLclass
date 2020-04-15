@@ -8,3 +8,4 @@ DLclass
 * week3 - 準備考試
 * week4 - pima dataset, OR problem, XOR problem
 * week6 - 不同loss function的比較
+* week7 - 不同激活函數、最佳化演算法的比較
