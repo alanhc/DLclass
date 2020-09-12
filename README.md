@@ -5,7 +5,6 @@ DLclass
 
 * [week1] - Google colab與Linux的一些基本指令操作
 * [week2] - 架一個簡單的類神經網路及使用mnist資料集
-* [week3] - 準備考試
 * [week4] - pima dataset, OR problem, XOR problem
 * [week6] - 不同loss function的比較
 * [week7] - 不同激活函數、最佳化演算法的比較
