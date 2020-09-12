@@ -16,7 +16,7 @@ DLclass
 [[code]](https://github.com/alanhc/DLclass/blob/master/week-7/week7_hw.py)
 * [week8-10] - [Kaggle_Intel風景辨識] mlp小專案
 [[report]](https://github.com/alanhc/DLclass/blob/master/week-8-10/week10.pdf)
-[[code]]https://github.com/alanhc/DLclass/blob/master/week-8-10/week8_10.py)
+[[code]](https://github.com/alanhc/DLclass/blob/master/week-8-10/week8_10.py)
 * [week11] - 數字辨識 CNN小專案
 [[report]](https://github.com/alanhc/DLclass/blob/master/week-11/week11_v2.pdf)
 [[code-1]](https://github.com/alanhc/DLclass/blob/master/week-11/week11.py)
