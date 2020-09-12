@@ -9,3 +9,12 @@ DLclass
 * week4 - pima dataset, OR problem, XOR problem
 * week6 - 不同loss function的比較
 * week7 - 不同激活函數、最佳化演算法的比較
+* week8-10 - Kaggle Intel風景辨識 mlp小專案
+* week11 - 數字辨識 CNN小專案
+* week12 - Kaggle Intel風景辨識 CNN小專案 解釋CNN [x]
+* week13 - Kaggle Intel風景辨識 Transfer Learning
+* week14 - 臉部辨識
+* week15 - RNN 月銷售預測
+* week16 - LSTM月銷售預測、seq2seq模型 加法訓練
+* week17 - seq2seq模型 英翻中
+* week18 - 期末作業-植物病理學挑戰
