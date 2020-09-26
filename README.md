@@ -2,6 +2,8 @@ DLclass
 =====
 ## Intel風景圖片挑戰(CNN、解釋模型) - [week12] [week13]
 本專案為深度學習導論-多週的CNN小專案， 使用Kaggle -Intel Image Classification的資料集從FCN網路、簡單CNN、Resnet50等Transfer learning的技巧，使用Keras做模型訓練，並觀測多層CNN網路中每一層的特徵圖形，了解捲積神經網路的原理及實作。
+## 預測12個月銷售額(RNN、LSTM) - [week15] [week16]
+本專案為深度學習導論 – RNN、LSTM的小專案，從12月的銷售額資料集。除了了解RNN、LSTM的理論外，嘗試不同的超參數並透過RMSE等方式去做未來的銷售額預測。
 
 我的深度學習與類神經網路導論課堂repo，會把筆記與作業丟上來當紀錄。
 
