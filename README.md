@@ -1,5 +1,7 @@
 DLclass
 =====
+Intel風景圖片挑戰(CNN、解釋模型) - [week12] [week13]
+本專案為深度學習導論-多週的CNN小專案， 使用Kaggle -Intel Image Classification的資料集從FCN網路、簡單CNN、Resnet50等Transfer learning的技巧，使用Keras做模型訓練，並觀測多層CNN網路中每一層的特徵圖形，了解捲積神經網路的原理及實作。
 
 我的深度學習與類神經網路導論課堂repo，會把筆記與作業丟上來當紀錄。
 
